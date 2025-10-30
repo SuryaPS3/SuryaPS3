@@ -38,10 +38,7 @@
   Final‑year Computer Science Engineering student (CGPA <b>9.32</b>) skilled in Java and Python, with strong foundations in data analytics and visualization. Certified in Azure AI (AI‑102) and Azure Fundamentals (AI‑900). I thrive on solving real‑world challenges with adaptability and persistence.
 </p>
 
-<!-- YouTube-style section (kept from reference format; add your channel if desired)
-### 🎥 YouTube
-I share tutorials, tips, and tricks on software, data analytics, and ML. Subscribe to stay updated!
--->
+
 
 ### 💼 Professional Snapshot
 - CSE @ VIT‑AP University — GPA 9.95 in Fall 2022–23 (Ranked 6)
