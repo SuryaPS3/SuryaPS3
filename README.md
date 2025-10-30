@@ -16,19 +16,11 @@
   <a href="mailto:spsingh2003.sps@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter(X)-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X"/>
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="#" target="_blank">
+  
+  <a href="https://leetcode.com/u/SURYAPS3/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
-  <a href="#" target="_blank">
+  <a href="https://codeforces.com/profile/Surya_PS_3" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
   </a>
 </p>
@@ -91,11 +83,6 @@ I’m always happy to connect and collaborate.
 <!-- Banner (optional): place an image in /assets/banner.png and uncomment -->
 <!-- <p align="center"><img src="./assets/banner.png" alt="banner" /></p> -->
 
-<!-- Contribution grid snake animation (mirrors reference style).
-     Requires setting up the Platane/snk action in this repo to render the SVG below. -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SuryaPS3/SuryaPS3/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
 
 ### 📈 My GitHub Stats
 <p align="center">
@@ -113,10 +100,6 @@ I’m always happy to connect and collaborate.
 
 ---
 
-<p align="center">Thank you for visiting my profile.</p>
+<p align="center">Thank you for visiting my profile. I hope you have a nice day!!!</p>
 
-<!-- NOTES:
-- You asked not to include Projects, so that section is omitted.
-- Replace placeholder links (#) for Twitter/X, YouTube, Instagram, LeetCode, and CodeChef when ready.
-- The snake animation will display after you add the GitHub Action that generates the SVG to the 'output' branch.
--->
+
